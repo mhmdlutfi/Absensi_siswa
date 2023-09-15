@@ -8,14 +8,15 @@
     <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0111111111">
         <title>Document</title>
+        <title>doccc</title>
     </head>
     <body>
         dede men
     </body>
     </html>
-    muhamad lutfi
+    muhamad lutfi lutfi
 </body>
 </html>
 
